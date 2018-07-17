@@ -1,10 +1,10 @@
 # vue-simplebar
 
-A simple wrapper for Simplebar (https://github.com/Grsmto/simplebar) for VUE.js.
+A Simplebar (https://github.com/Grsmto/simplebar) wrapper for Vue.js.
 
 # usage 
 Firstly import the component:
-import Scrollbar from vue-simplebar
+<pre>import Scrollbar from vue-simplebar</pre>
 
 Then just wrap your content with:
-<Scrollbar>your content</Scrollbar>
+<pre><code>&lt;Scrollbar&gt;your content&lt;/Scrollbar&gt;</code></pre>
